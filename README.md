@@ -1,4 +1,6 @@
-# Reproduction of Neuro-C: Comparison of MLP, TNN, and Neuro-C across MNIST, Fashion-MNIST, and CIFAR-5
+# Hardware-Aware Neural Inference for Gesture Recognition on Ultra-Low-Power Microcontrollers: Extending the Neuro-C Approach to IMU Sensor Data
+
+*Reproduction of Neuro-C: Comparison of MLP, TNN, and Neuro-C across MNIST, Fashion-MNIST, and CIFAR-5.*
 
 *Reference: Romano, Mottola, Voigt. "Neuro-C: Neural Inference Shaped by Hardware Limits", EuroSys '26.*
 
